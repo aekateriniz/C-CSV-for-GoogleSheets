@@ -1,6 +1,6 @@
 # C-CSV-for-GoogleSheets
 
-//Create CSV file for Google Sheets C++
+//Create CSV file for Google Sheets in C++
 //This is NOT for Excel
 
 
